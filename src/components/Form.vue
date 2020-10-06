@@ -10,7 +10,7 @@
           <form>
             <div class="row">
             <div class="form-group col-md-6">
-              <label>Name</label>
+              <label>Frist name</label>
               <input type="text" class="form-control"/>
             </div>
             <div class="form-group col-md-6">
